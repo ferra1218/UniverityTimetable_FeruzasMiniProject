@@ -131,6 +131,14 @@ This project is a Flask web application that displays a timetable of courses bas
 
 ## Screenshots
 
-![Screenshot 1]()
-![Screenshot 2]()
+![Screenshot 1](imgs/Choosing_class.png)
+![Screenshot 2](imgs/Output.png)
 
+**Additional Info**
+Database Configuration
+Make sure to update the following details in the app.py file to match your PostgreSQL database:
+Database host (your endpoint)
+Database user 
+Database password
+Database name
+Contributing
